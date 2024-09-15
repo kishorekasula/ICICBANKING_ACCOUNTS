@@ -1,0 +1,6 @@
+@ICICBANKING_ACCOUNTS_HostAddress = http://localhost:5107
+
+GET {{ICICBANKING_ACCOUNTS_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
